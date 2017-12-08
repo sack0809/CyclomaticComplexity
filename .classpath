@@ -9,30 +9,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/Users/playsafe/Downloads/jaxrs-ri/api/javax.ws.rs-api-2.1.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.6.99.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.5.4-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.5.11.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.5.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-simple-1.4.2.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-nop-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-nop-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-nop-1.5.6.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-migrator-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-log4j12-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-log4j12-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-jdk14-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-jdk14-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-jcl-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-jcl-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-ext-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-ext-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-api-2.0.99.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-api-1.6.99.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-api-1.6.0.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-api-1.6.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/slf4j-api-1.5.11.jar"/>
 	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/org.eclipse.jgit-4.9.0.201710071750-r.jar"/>
 	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/log4j-over-slf4j-1.6.0.jar"/>
 	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/log4j-over-slf4j-1.6.0-sources.jar"/>
@@ -76,5 +52,7 @@
 	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/cdi-api-1.1.jar"/>
 	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/aopalliance-repackaged-2.5.0-b42.jar"/>
 	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/javax.ws.rs-api-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="/Users/playsafe/Desktop/Java/ServerRESTAPI/WebContent/WEB-INF/lib/jcommon-1.0.8.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
