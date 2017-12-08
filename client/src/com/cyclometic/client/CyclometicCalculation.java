@@ -18,7 +18,7 @@ public class CyclometicCalculation {
 		List<String> loops = Arrays.asList("while", "case", "for", "switch", "do");
 		List<String> returns = Arrays.asList("return");
 		List<String> conditions = Arrays.asList("&&", "||", "or", "and", "xor");
-		int complexity = 2;
+		int complexity = 0;
 		String line;
 		while((line = bufferedReader.readLine())!=null) {
 			// System.out.println(i);
